@@ -1,0 +1,19 @@
+{
+  "name": "stampy-functions",
+  "description": "Stripe payment backend for Stampy (Firebase Cloud Functions)",
+  "engines": {
+    "node": "20"
+  },
+  "main": "index.js",
+  "scripts": {
+    "serve": "firebase emulators:start --only functions",
+    "deploy": "firebase deploy --only functions",
+    "lint": "echo \"No lint configured\""
+  },
+  "dependencies": {
+    "firebase-admin": "^12.6.0",
+    "firebase-functions": "^4.9.0",
+    "stripe": "^17.4.0"
+  },
+  "private": true
+}

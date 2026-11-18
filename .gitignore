@@ -1,0 +1,14 @@
+DerivedData/
+build/
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+.DS_Store
+
+# Local Firebase and Stripe config. Copy the examples and fill them in.
+GoogleService-Info.plist
+Config/Secrets.xcconfig
+functions/node_modules
+functions/.env
+functions/.env.*
+*.log
