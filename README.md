@@ -1,12 +1,8 @@
 # Stampy
-
-<img width="439" height="956" alt="Screenshot 2026-11-18 at 5 35 16 AM" src="https://github.com/user-attachments/assets/3a74f11f-6833-4a48-888d-0cd417789304" />
 <img width="429" height="886" alt="Screenshot 2026-11-18 at 5 29 27 AM" src="https://github.com/user-attachments/assets/be0222ed-3d03-4eaa-98e0-ab1cbaed12a4" />
 <img width="439" height="956" alt="Screenshot 2026-11-18 at 5 30 35 AM" src="https://github.com/user-attachments/assets/c807f0ef-4953-4e3c-8097-64d809d6662e" />
 <img width="439" height="956" alt="Screenshot 2026-11-18 at 5 30 15 AM" src="https://github.com/user-attachments/assets/64dc47ba-bcf9-473c-bb00-bba77619c0fc" />
 <img width="439" height="956" alt="Screenshot 2026-11-18 at 5 29 57 AM" src="https://github.com/user-attachments/assets/694d9c7c-d58e-457c-9309-a7d5a836655b" />
-
-
 
 SwiftUI catalog for postage stamps. Sign in with Firebase, browse the catalog, keep a cart, and check out with cash or a Stripe card payment.
 
