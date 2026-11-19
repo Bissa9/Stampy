@@ -1,5 +1,5 @@
 # Stampy
-<img width="429" height="886" alt="Screenshot 2026-11-18 at 5 29 27 AM" src="https://github.com/user-attachments/assets/be0222ed-3d03-4eaa-98e0-ab1cbaed12a4" />
+<img width="443" height="956" alt="Screenshot 2026-11-19 at 11 49 31 PM" src="https://github.com/user-attachments/assets/8c02b4fe-2a73-4e21-a205-1d696898a45b" />
 <img width="439" height="956" alt="Screenshot 2026-11-18 at 5 30 15 AM" src="https://github.com/user-attachments/assets/64dc47ba-bcf9-473c-bb00-bba77619c0fc" />
 <img width="439" height="956" alt="Screenshot 2026-11-18 at 5 29 57 AM" src="https://github.com/user-attachments/assets/694d9c7c-d58e-457c-9309-a7d5a836655b" />
 
